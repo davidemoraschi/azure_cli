@@ -1,0 +1,1 @@
+C:\databricks_cli_0.200.1_windows_amd64\databricks api post /api/2.0/clusters/create --json @"001. create cluster.json"
